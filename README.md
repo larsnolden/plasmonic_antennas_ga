@@ -1,6 +1,7 @@
 ## Genetic Algorithm to create nano-plasmonic antennas
 
 A genetic algorithm that generates nano-plasmonic antenna designs with the goal to maximize the light induced heat generation. Utilizes Comsol FEM simulation for fitness evaluation.
+This code is the result of my [bachelor thesis](genetic_algorithm_plasmonic_antennas__Lars_Nolden_2600854_Bachelor_Thesis.pdf).
 
 ## Get Started
 
